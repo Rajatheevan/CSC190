@@ -1,0 +1,4 @@
+This Folder Contains the assignment Marked #1 and is the automatic Chess Player, 
+Contained within is the code required to automattically play chess against a random player or an individual.
+There is a set of parameters that allow for this and change the ability of the player to win.
+These parameters have been optomised against a player that makes random moves unless it can take a piece, wherin it does that.
