@@ -1,3 +1,3 @@
 # CSC190
 This is the set of all of the Assignments and Labs Undertaken over the Course of the CSC190 course in Data Structures and Algorithms.
-#All of# the code is Written by William Flint
+# All of the code is Written by William Flint
